@@ -1,0 +1,6 @@
+name: BlockXP
+version: 1.0.0
+api: 4.0.0
+author: LeoWasCoding
+main: leo\blockxp\main
+depend: [BedrockEconomy]
