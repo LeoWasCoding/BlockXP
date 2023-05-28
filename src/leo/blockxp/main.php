@@ -18,7 +18,7 @@ class MiningExperiencePlugin extends PluginBase implements Listener
     /** @var BedrockEconomyAPI|null */
     private $bedrockEconomy;
 
-    public function onEnable()
+    public function onEnable(): void
     {
         $this->saveDefaultConfig();
         $this->config = $this->getConfig();
