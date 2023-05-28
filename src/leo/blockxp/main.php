@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace YourNamespace;
+namespace leo\blockxp\main;
 
 use pocketmine\event\block\BlockBreakEvent;
 use pocketmine\event\block\BlockPlaceEvent;
